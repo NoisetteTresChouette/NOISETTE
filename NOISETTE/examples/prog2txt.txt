@@ -1,0 +1,2 @@
+Here is the translation of test.prog.
+Check the README.

@@ -1,0 +1,7 @@
+# This is a comment.
+W(T);R;W(h);R;F(2,[W(i);R;W(s);R;W( );R;]);W(n);R;W(o);R;W(t);R;W( );R;W(a);R;W( );R;W(c);R;W(o);R;F(2,[W(m);R;]);W(e);R;W(n);R;W(t);R;W(.);R;W(
+);R;#
+# Comment
+W(N);R;W(o);R;W( );R;W(c);R;W(o);R;F(2,[W(m);R;]);W(e);R;W(n);R;W(t);R;W(.);R;#
+#
+# Note that you should right # at the end of a line if you want to start a comment on the next one.
